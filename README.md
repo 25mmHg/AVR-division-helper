@@ -1,2 +1,3 @@
 # AVR division helper
- Python script for calculating integer DIV as integer MULT and R_SHIFT
+ Python script for calculating integer DIVISION as integer MULTIPLY and DIVISIONS by 2 (RIGHT_SHIFT).
+ 
